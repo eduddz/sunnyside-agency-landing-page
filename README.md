@@ -8,6 +8,7 @@ Desenvolvido com html e css. Layout first mobile, usando flexbox, media query e 
 
 ![Design preview for the Sunnyside agency landing page coding challenge](./design/mobile-design.jpg)
 
-Menu responsivo hamburguer
+### Menu responsivo hamburguer
+
 ![Design preview for the Sunnyside agency landing page coding challenge](./design/mobile-menu.jpg)
 
